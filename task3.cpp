@@ -10,8 +10,7 @@ int main()
       cin.getline(name,max);
       cout<<"Enter your age:  \n";
       cin>>age;
-    //   cout<<"Name: "<<name<<endl;
-	// cout<<"Age: "<<age<<endl;
+	//checks whether the user is eligible or not
 
       if (age>=18)
       {
